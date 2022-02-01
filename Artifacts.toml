@@ -1,0 +1,234 @@
+[[OpenFAST]]
+arch = "aarch64"
+git-tree-sha1 = "29507816c98b7650e7223cd9adb2522969678a5d"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "63e83351a4d0f8e6b62c90828eb4fb46e8916893c5d45732e0eb1a3acdc70e42"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[OpenFAST]]
+arch = "aarch64"
+git-tree-sha1 = "7b039f76b0e36aff3d022535d3d8493fa93b3849"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "381957914815a9029aea01d8e5497263ecabfd3966f4effc81846c2f046551df"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[OpenFAST]]
+arch = "aarch64"
+git-tree-sha1 = "71f2d362065079ca18eb364809856937bb674691"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "3f08292c266dc9994b8361978061e27469d948e833d2e89d82daeb386c3ff9fc"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[OpenFAST]]
+arch = "i686"
+git-tree-sha1 = "26cd6cee01254788c0536f9ee223b469e07890fb"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "bf58a0d5b71da6376265abfbe1a1cc6d45255e3a7aa3e9b806c2b5998d3f6cca"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[OpenFAST]]
+arch = "i686"
+git-tree-sha1 = "22dbc9e1d42f2892faa6a92babc5cdab075e4d3b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "04193889160dd4bc33f3bacb40813503c1a05f5104204a09940866345d34e681"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[OpenFAST]]
+arch = "i686"
+git-tree-sha1 = "8751d939dad0f0e887dd002256d4bedb2d0dfbf0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "9714d302fe7b94827321fbe65b29c8dcfb87501a6a6265a9dac64ae4a4861514"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[OpenFAST]]
+arch = "i686"
+git-tree-sha1 = "8739af031f536a997967aef0c4c798a61c62e5cc"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "dc1f9694f4a708b9d2c3c7c0edcba493bc054a69130260fdb7c01d9756d48369"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.i686-linux-musl-libgfortran3.tar.gz"
+[[OpenFAST]]
+arch = "i686"
+git-tree-sha1 = "ffe843c004aec1e911bc7b683503f8fc5eaab17e"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "17aff1d05aec1109b092bd622124b63d4f5c3b4496b6c30bb077dab579972b3e"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.i686-linux-musl-libgfortran4.tar.gz"
+[[OpenFAST]]
+arch = "i686"
+git-tree-sha1 = "cc01b0453b9c2912f47115a6874ed7cd6d57dc33"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "9c6ba1f7da515c788005980e73d3c8c0304083b14e7aede57418433546c79a74"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.i686-linux-musl-libgfortran5.tar.gz"
+[[OpenFAST]]
+arch = "powerpc64le"
+git-tree-sha1 = "19ad27ea2cc735db4df4cc9740e79a147e59a855"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "26b972f73b2a97f8d1e926850a022694a678fa6f001102b2ef2780a197c46d2b"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[OpenFAST]]
+arch = "powerpc64le"
+git-tree-sha1 = "995006c33b87023ca8a1212b7398d82a6a7b3207"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "cbd85df3494c08aeeff9b0191b324f0192d4e804c68efcddb6cc5aac6e3f0547"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[OpenFAST]]
+arch = "powerpc64le"
+git-tree-sha1 = "d81d7e4d4e0aa71744e8ad91ac841a7e7268cae8"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "011c201e5c6f09f9f2c0c7ad51ae8aba87e99f4475f5bfd93796073df975bedd"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[OpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "2c21bffc7cfc00d3664759511b45f71d0b33db32"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[OpenFAST.download]]
+    sha256 = "1a7b30e6edf1909eb8dcea36c5565afedae43e4102bd4edee5e3350daf0749e0"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[OpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "34f5c915eb2ec2bc76dfa3ae0e817a849eba46e4"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[OpenFAST.download]]
+    sha256 = "69c0fcf8a7f0a3ff6da84bbaa2786ef118096691867b36538d3ca1fffa830752"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[OpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "c45378defbabc5a079b4aa0f6aea4d8b1bc59c5d"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[OpenFAST.download]]
+    sha256 = "6da3d88917fad8a7b6cb86bed9c241eb559682c64c68dd471c549461f5765704"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[OpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "8029ab88b4654c941c36314e8e540773aa2aeb66"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "3ced97e1d544516b45e3a213c99e23c48c46d794a97e5f4a79a89959ed484978"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[OpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "9e20ce869d94fc01dd18e4517541b4445d2938f9"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "d4a57700bb1d97bf346ecf650a44ee757d9b2ff480c88236eb78c561bf2a0b0a"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[OpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "bd2abb4233cc1096a250ebb94fc661b1e4b75b90"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "b0544baa2a3801884bf1011dc2a11140126c197ec64d69c53c5e88a0d7b93f33"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[OpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "137f84e33b08f58636ed7710340ba9bbd02fba74"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "43938c2960828ad6a56c550ff092136ee7a7b3e5aaaadef2665d7e84a135677c"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[OpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "26be284b282dddf5378d9d02ad622f059ba2d5bd"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "07cd3ac6454aa437e33671377fafa1e78b9eb9604ed887e506af2652830e5b90"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[OpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "b39bd8217cdb49eb532e4e1b129810c5e4083cf2"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[OpenFAST.download]]
+    sha256 = "d9571794beba9c80a7973d349a4a30b5063425077095423fe87a5c133a7af9b2"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[OpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "4fd713b9607a879268802bd36a731f8e10f41c0d"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[OpenFAST.download]]
+    sha256 = "8cf449535af5fc753a3b2258f932f8f8b7f6bc70d7a1f713e693c0a55bf8c713"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[OpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "5a560cb9911e2e1206fdd93503e0cfa8666703aa"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[OpenFAST.download]]
+    sha256 = "9452336a21bc8c7982fc3e2fd437b9cffe37362113d2bbed4578784b7a9139aa"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[OpenFAST]]
+arch = "x86_64"
+git-tree-sha1 = "9c17b67283f8fc7be37fe1e722e2c26bdca75ca2"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[OpenFAST.download]]
+    sha256 = "a597cb1a16e4e0072ad496afa633696d58c27e59bb4bce2054e946bf3d66a998"
+    url = "https://github.com/JuliaBinaryWrappers/OpenFAST_jll.jl/releases/download/OpenFAST-v3.0.0+0/OpenFAST.v3.0.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
